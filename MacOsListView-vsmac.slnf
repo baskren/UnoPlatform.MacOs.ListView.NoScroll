@@ -1,0 +1,16 @@
+{
+  "solution": {
+    "path": "MacOsListView.sln",
+    "projects": [
+		"MacOsListView\\MacOsListView.csproj",
+
+		"MacOsListView.Mobile\\MacOsListView.Mobile.csproj",
+
+		"MacOsListView.Wasm\\MacOsListView.Wasm.csproj",
+
+		"MacOsListView.Skia.Gtk\\MacOsListView.Skia.Gtk.csproj",
+
+		"MacOsListView.Skia.Gtk\\MacOsListView.Skia.Gtk.csproj",
+    ]
+  }
+}

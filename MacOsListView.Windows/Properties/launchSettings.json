@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MacOsListView.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
